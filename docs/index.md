@@ -1,3 +1,3 @@
 ## Welcome to the World Map
 
-<iframe src="index.html" height="500" width="500"></iframe>
+<iframe src="index.html" height="1ß00" width="1000"></iframe>
